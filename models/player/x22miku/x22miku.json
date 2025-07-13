@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -62,6 +63,7 @@
 			"type": 16
 		}
 	],
+	"date": 1741614825,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3af4d9eff914c264a95569265390249b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/x22miku/x22miku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

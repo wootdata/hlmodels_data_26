@@ -118,6 +118,7 @@
 			"name": "eye"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -152,6 +153,7 @@
 			"type": 8
 		}
 	],
+	"date": 1659831770,
 	"events": [
 		{
 			"event": 2001,
@@ -261,7 +263,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5c7d6e27d5b9bcd887b9e6a190d8192e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

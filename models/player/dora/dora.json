@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 915591100,
 	"events": [
 		{
 			"event": 2001,
@@ -190,7 +192,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d04883adfe5f003ce1bff2653542868c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/dora/dora.([",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

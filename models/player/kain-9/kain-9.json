@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 923084892,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "55c05bee195fbb8c58e2e4ead6ae900f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wolfy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
