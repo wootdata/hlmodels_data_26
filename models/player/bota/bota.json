@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 25,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Mario",
-					"polys": 461,
-					"verts": 244
+					"name": "botA",
+					"polys": 2459,
+					"verts": 1430
 				}
 			],
 			"name": "body"
@@ -31,7 +31,7 @@
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 12,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 13,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 14,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1033409620,
+	"date": 1357227470,
 	"events": [
 		{
 			"event": 2001,
@@ -172,18 +172,18 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "845d9390666df0a77a50bde778997653",
+	"md5": "77abf910ece1d676a9689f87401d7272",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "Mario.mdl",
+	"name": "BotA.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "look_idle"
+			"name": "Koshak_HL"
 		}, 
 		{
 			"fps": 14.000000,
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 352112,
+	"size": 812796,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -589,32 +589,16 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 7
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 10
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -622,54 +606,70 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 12
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 13
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 14
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 15
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 16
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 16
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 18
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 19
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Arm",
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 R Arm1",
-			"parent": 22
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 23
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger11",
 			"parent": 24
 		}
 	],
@@ -678,15 +678,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "head.bmp",
-			"width": 256
+			"height": 512,
+			"name": "BotABodyA.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "body.bmp",
-			"width": 256
+			"height": 512,
+			"name": "BotAHeadA.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
