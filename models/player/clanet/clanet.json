@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "../boogle/boogle",
-					"polys": 797,
-					"verts": 432
+					"name": "../dmatch/gordon/Gordon_Hi-ResDM1",
+					"polys": 1534,
+					"verts": 790
 				}
 			],
 			"name": "body"
@@ -31,7 +31,7 @@
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 14,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 15,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 16,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 17,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098056040,
+	"date": 1098056460,
 	"events": [
 		{
 			"event": 2001,
@@ -172,12 +172,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "db48f0fd30b9e3ecfd3120a0a11a58b0",
+	"md5": "37e04a718e8bb1505ad56681feab6cde",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "D:\\models\\boogle\\Boogle.mdl",
+	"name": "player/Gordon/Gordon.mdl",
 	"preview": false,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 286760,
+	"size": 328008,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -589,16 +589,40 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe01",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe02",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Toe02",
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -606,64 +630,70 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Spine2",
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Spine3",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
+			"name": "Bip01 Neck",
+			"parent": 17
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 Head",
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Arm",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 24
+		}, 
+		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 26
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome1.BMP",
+			"width": 64
+		}, 
+		{
 			"flags": 0,
 			"height": 256,
-			"name": "skin.bmp",
+			"name": "punisher.BMP",
 			"width": 256
 		}
 	],

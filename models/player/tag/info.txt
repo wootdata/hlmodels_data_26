@@ -1,0 +1,21 @@
+**********************************************************************
+
+			TAG Half-Life DM Model
+
+**********************************************************************
+
+Please place this file in the models directory in your Half-Life game
+directory. Name the dir TAG and voila!
+
+
+
+
+It is forbidden to use the model for yourself. It is TAG only. Just put 
+it in your dir so you won't see Gordon, but TAG who fragged you!
+
+
+Greetz.
+
+TAG
+
+tag_rulez@hotmail.com
