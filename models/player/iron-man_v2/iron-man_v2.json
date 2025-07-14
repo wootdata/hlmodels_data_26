@@ -178,7 +178,7 @@
 	"modid": 2,
 	"name": "valve/models/player/Iron-Man/Iron-Man.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
