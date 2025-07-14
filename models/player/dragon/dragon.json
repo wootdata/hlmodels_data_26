@@ -175,6 +175,7 @@
 	"md5": "4a659e4ae4149acade1a133351af7b67",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Dragon/Dragon.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "4620ed3fe207638b78d8aca3d6ee9252",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Iron-Man/Iron-Man.mdl",
 	"preview": true,
 	"readme": false,

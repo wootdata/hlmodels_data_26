@@ -175,6 +175,7 @@
 	"md5": "2b65df50c7cf6b0023d85b6a9f97c7e9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/vtms/vtms.mdl",
 	"preview": true,
 	"readme": false,
