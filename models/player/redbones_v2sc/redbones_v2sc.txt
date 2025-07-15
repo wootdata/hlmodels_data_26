@@ -1,0 +1,32 @@
+Skinner: SlimReapeR
+Skin Name: Redbones
+Model Used: Skeleton
+
+Bones model created for the Q3 skin pack for Hlf-life being created by SlimReapeR and Tormentus
+
+
+Installation of Plugin
+
+Create a folder called redbones in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : redbones_v2
+Source Model Hash : 9cfc302733699e3afcfe87f0f04ad2ba
+Source Model Date : 1583378548 (2020/03/04)
+
+Ported Model Name : redbones_v2sc
+Ported Model Hash : ca9b92a5cb9d8d7bbd15c769a37f242f
+Ported Model Date : 1752492195 (2025/07/14)

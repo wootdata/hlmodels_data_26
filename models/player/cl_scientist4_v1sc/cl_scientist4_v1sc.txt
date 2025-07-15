@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cl_scientist4
+Source Model Hash : b6eff0922eba8f0ea312513bff3654b8
+Source Model Date : 1500925631 (2017/07/24)
+
+Ported Model Name : cl_scientist4_v1sc
+Ported Model Hash : 8a8d1936415f89131042457e32f9bb8a
+Ported Model Date : 1752491485 (2025/07/14)

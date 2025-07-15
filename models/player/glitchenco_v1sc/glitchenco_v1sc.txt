@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : glitchenco
+Source Model Hash : c1b0b4a0fed9cb7674634b84f85f92c1
+Source Model Date : 1536527741 (2018/09/09)
+
+Ported Model Name : glitchenco_v1sc
+Ported Model Hash : f263980ba1bf0ba10529f73f9ff63703
+Ported Model Date : 1752491728 (2025/07/14)

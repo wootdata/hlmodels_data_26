@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : palpatine
+Source Model Hash : 2c8ee0ebed60a71d986ec347dd28f62b
+Source Model Date : 1265723718 (2010/02/09)
+
+Ported Model Name : palpatine_v1sc
+Ported Model Hash : cec741f03c70386705cdca4c35b59356
+Ported Model Date : 1752492142 (2025/07/14)

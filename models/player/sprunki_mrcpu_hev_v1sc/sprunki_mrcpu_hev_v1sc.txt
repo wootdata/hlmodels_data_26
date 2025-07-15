@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sprunki_mrcomputer_hev
+Source Model Hash : 7738a3a52c7d18b1599c53320cfeae55
+Source Model Date : 1746463646 (2025/05/05)
+
+Ported Model Name : sprunki_mrcpu_hev_v1sc
+Ported Model Hash : 5a28863dccb108b24fd578aa7eb9e47a
+Ported Model Date : 1752492312 (2025/07/14)

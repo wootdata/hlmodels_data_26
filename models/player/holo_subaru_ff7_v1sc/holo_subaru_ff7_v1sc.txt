@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_subaru_ff7
+Source Model Hash : 99e4db9f73740255fc1ed83392866b75
+Source Model Date : 1641849534 (2022/01/10)
+
+Ported Model Name : holo_subaru_ff7_v1sc
+Ported Model Hash : 64e46fbbf650b56f8e9a35b308518cb0
+Ported Model Date : 1752491826 (2025/07/14)

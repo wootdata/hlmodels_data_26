@@ -1,0 +1,22 @@
+youmu_test
+
+Model :  Suke
+http://3d.nicovideo.jp/works/td27282
+
+2016/09/30
+Fixed animation.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_youmu2what
+Source Model Hash : bec33e7841b60643cfc1f3b865dd0b66
+Source Model Date : 1549188274 (2019/02/03)
+
+Ported Model Name : touhou_youmu2what_v1sc
+Ported Model Hash : d7da5cf0efbb810ee4f2cb85d5a75bc7
+Ported Model Date : 1752492452 (2025/07/14)

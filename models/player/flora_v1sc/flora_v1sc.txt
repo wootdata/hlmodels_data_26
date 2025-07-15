@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flora
+Source Model Hash : 71d79c176832f75add9b89a7b9c5320d
+Source Model Date : 1496689622 (2017/06/05)
+
+Ported Model Name : flora_v1sc
+Ported Model Hash : deeedce590770f9a46baddb49050a774
+Ported Model Date : 1752491653 (2025/07/14)

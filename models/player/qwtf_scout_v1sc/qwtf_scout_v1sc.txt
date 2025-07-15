@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : qwtf_scout
+Source Model Hash : 1b3036af5976a580fcd08f417ca329cb
+Source Model Date : 1637600164 (2021/11/22)
+
+Ported Model Name : qwtf_scout_v1sc
+Ported Model Hash : f6565519ec81addea425d04b0cc21017
+Ported Model Date : 1752492182 (2025/07/14)

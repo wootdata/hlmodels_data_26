@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_neppugya-c2
+Source Model Hash : 76b43329a153658a545f27dfffbc41ff
+Source Model Date : 1543540430 (2018/11/29)
+
+Ported Model Name : hdn_neppugya-c2_v1sc
+Ported Model Hash : e0e185126539a67452c767c517acafaa
+Ported Model Date : 1752491776 (2025/07/14)

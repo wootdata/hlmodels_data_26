@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : merino
+Source Model Hash : 18b660512c4981948c10dddc545cec1a
+Source Model Date : 1609572704 (2021/01/01)
+
+Ported Model Name : merino_v1sc
+Ported Model Hash : ab6a081624ab1ccaded1456eedbb1bea
+Ported Model Date : 1752492003 (2025/07/14)

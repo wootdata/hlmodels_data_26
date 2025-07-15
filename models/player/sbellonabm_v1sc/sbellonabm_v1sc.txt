@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sbellonabm
+Source Model Hash : 16bee33b296aaab807a1b0c59b6395b2
+Source Model Date : 1620442578 (2021/05/07)
+
+Ported Model Name : sbellonabm_v1sc
+Ported Model Hash : f4b2a1765687dccbe569691e4311bdd6
+Ported Model Date : 1752492242 (2025/07/14)

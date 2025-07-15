@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tongo
+Source Model Hash : d728509efe9fc0732c335e59f06576a3
+Source Model Date : 1654720497 (2022/06/08)
+
+Ported Model Name : tongo_v1sc
+Ported Model Hash : a1d37b8748ef8ca84ee49bc9aaf712b1
+Ported Model Date : 1752492429 (2025/07/14)

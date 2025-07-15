@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ys_teacher
+Source Model Hash : cfd903a87476a31b5e081393dd4454ed
+Source Model Date : 1464003292 (2016/05/23)
+
+Ported Model Name : ys_teacher_v1sc
+Ported Model Hash : f3b5731d515712e3ee824e3537405a31
+Ported Model Date : 1752492524 (2025/07/14)

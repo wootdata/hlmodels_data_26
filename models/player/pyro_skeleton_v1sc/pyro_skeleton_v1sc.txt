@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pyro_skeleton
+Source Model Hash : a558a5ccb6d8cceb5e78d34285378a27
+Source Model Date : 1478177619 (2016/11/03)
+
+Ported Model Name : pyro_skeleton_v1sc
+Ported Model Hash : bf13abae6e08f40260c094839d215448
+Ported Model Date : 1752492175 (2025/07/14)

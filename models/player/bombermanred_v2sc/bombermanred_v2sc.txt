@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bombermanred_v2
+Source Model Hash : 8c9c18b36e54f0561f29c03c88567b9a
+Source Model Date : 1583783528 (2020/03/09)
+
+Ported Model Name : bombermanred_v2sc
+Ported Model Hash : 4414e2f039e191df285eddf72d3a7d1b
+Ported Model Date : 1752491443 (2025/07/14)

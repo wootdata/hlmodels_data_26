@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_frostrotom
+Source Model Hash : 9f0deb8e271e408fef869134380ce626
+Source Model Date : 1457592534 (2016/03/09)
+
+Ported Model Name : nr_frostrotom_v1sc
+Ported Model Hash : 9e6436f9d364e1a28e690ac3523cf5c7
+Ported Model Date : 1752492101 (2025/07/14)

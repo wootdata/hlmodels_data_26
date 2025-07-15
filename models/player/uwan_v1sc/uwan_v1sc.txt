@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uwan
+Source Model Hash : f5f98ebb864e32dff268175ba2f3592b
+Source Model Date : 1240755174 (2009/04/26)
+
+Ported Model Name : uwan_v1sc
+Ported Model Hash : b8098972045912ba265f2062a88d638b
+Ported Model Date : 1752492485 (2025/07/14)

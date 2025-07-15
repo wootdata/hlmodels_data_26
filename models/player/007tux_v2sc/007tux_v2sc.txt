@@ -1,0 +1,21 @@
+Put the files in a directory called "007tux" in your models/player directory.
+
+If you have any comments, just mail them to:
+frag.daddy@iname.com
+
+Gabriel Blomberg aka frAg_dAddy
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 007tux_v2
+Source Model Hash : 4f80a4180480e8b5eb328e687f034ae2
+Source Model Date : 1591255721 (2020/06/04)
+
+Ported Model Name : 007tux_v2sc
+Ported Model Hash : ba27d5e9422cc369481fbccdd7e62d20
+Ported Model Date : 1752491303 (2025/07/14)

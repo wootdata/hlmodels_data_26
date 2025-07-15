@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bone_devil
+Source Model Hash : 49f2834c6ee249c02294c26434a98c99
+Source Model Date : 1425667800 (2015/03/06)
+
+Ported Model Name : bone_devil_v1sc
+Ported Model Hash : c672b839c182915d166dcde6d9f803fb
+Ported Model Date : 1752491443 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-amobe1_v2
+Source Model Hash : ec7a810fa0d64c5e86ca517aa5c6e77f
+Source Model Date : 1538095038 (2018/09/27)
+
+Ported Model Name : nva-amobe1_v2sc
+Ported Model Hash : 63f1ce5f9d679749b8836f198fbbef11
+Ported Model Date : 1752492106 (2025/07/14)

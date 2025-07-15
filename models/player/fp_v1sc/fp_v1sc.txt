@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp
+Source Model Hash : 607311079952541c09bedb6118274447
+Source Model Date : 1590728857 (2020/05/28)
+
+Ported Model Name : fp_v1sc
+Ported Model Hash : bde6a91a262c48fb45baae027f8b732e
+Ported Model Date : 1752491657 (2025/07/14)

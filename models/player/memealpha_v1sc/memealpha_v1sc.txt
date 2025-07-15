@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : memealpha
+Source Model Hash : c567d255ee4bb163f97e726c77358cda
+Source Model Date : 1561972393 (2019/07/01)
+
+Ported Model Name : memealpha_v1sc
+Ported Model Hash : 526a2724eae143629359de90c9ed518a
+Ported Model Date : 1752492000 (2025/07/14)

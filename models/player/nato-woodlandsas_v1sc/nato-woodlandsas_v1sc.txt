@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-woodlandsas
+Source Model Hash : 2beec799313e4cae21f77eee71818989
+Source Model Date : 1265569420 (2010/02/07)
+
+Ported Model Name : nato-woodlandsas_v1sc
+Ported Model Hash : dd4e611152b24a4705e5ada0dfd0c00a
+Ported Model Date : 1752492075 (2025/07/14)

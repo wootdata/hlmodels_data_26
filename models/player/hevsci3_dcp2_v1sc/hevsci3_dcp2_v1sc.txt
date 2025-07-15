@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevscientist3_dcp2
+Source Model Hash : 11ef4ad766227f4f53b66e049e52f25c
+Source Model Date : 1604447341 (2020/11/03)
+
+Ported Model Name : hevsci3_dcp2_v1sc
+Ported Model Hash : 8e6361b68791af0d26e6f6467bad36a2
+Ported Model Date : 1752491788 (2025/07/14)

@@ -1,0 +1,20 @@
+FacePunch (GarryMod)
+Pengy
+Shirone
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tf2_soldier_blue2
+Source Model Hash : 589449fc27b9ffa41f39bd8bdfe2dfc1
+Source Model Date : 1459476241 (2016/03/31)
+
+Ported Model Name : tf2_soldier_blue2_v1sc
+Ported Model Hash : af26eb0f9a7c474b885d93a63975d58d
+Ported Model Date : 1752492406 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fanadil
+Source Model Hash : 4c5881a0245971b17c473c55eb84c877
+Source Model Date : 1704282554 (2024/01/03)
+
+Ported Model Name : fanadil_v1sc
+Ported Model Hash : 0315340bb196ff814b27e269a2150dba
+Ported Model Date : 1752491643 (2025/07/14)

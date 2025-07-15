@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : m3ats_model_v2
+Source Model Hash : c8af8714c921b0ca01b0b2306efae1ff
+Source Model Date : 1583655618 (2020/03/08)
+
+Ported Model Name : m3ats_model_v2sc
+Ported Model Hash : 3d1a0c310e0bc2dbfd158c424c049d87
+Ported Model Date : 1752491976 (2025/07/14)

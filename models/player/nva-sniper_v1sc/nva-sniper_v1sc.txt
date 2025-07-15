@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-sniper
+Source Model Hash : 79ea55190908c285f8081b719917768d
+Source Model Date : 1265656473 (2010/02/08)
+
+Ported Model Name : nva-sniper_v1sc
+Ported Model Hash : 29f22817149a7986be038d0dd72f724b
+Ported Model Date : 1752492108 (2025/07/14)

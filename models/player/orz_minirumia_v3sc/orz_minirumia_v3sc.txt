@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : orz_minirumia_v3
+Source Model Hash : 3e97ee16e65a9bec7eac2bd1a55d9f4f
+Source Model Date : 1681941727 (2023/04/19)
+
+Ported Model Name : orz_minirumia_v3sc
+Ported Model Hash : f73ae0fb7a2c9ad646856bcf83f60088
+Ported Model Date : 1752492132 (2025/07/14)

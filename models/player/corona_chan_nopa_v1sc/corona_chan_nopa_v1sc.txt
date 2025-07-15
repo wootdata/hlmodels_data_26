@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : corona_chan_nopantsu
+Source Model Hash : 1d72684365cdb345ace3563a825c5591
+Source Model Date : 1583354950 (2020/03/04)
+
+Ported Model Name : corona_chan_nopa_v1sc
+Ported Model Hash : cd2b61615c3305782625ea2f590432a9
+Ported Model Date : 1752491530 (2025/07/14)

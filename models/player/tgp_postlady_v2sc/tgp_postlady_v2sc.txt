@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tgp_postlady_v2
+Source Model Hash : c430d51168e9d13c84e931de98ca4806
+Source Model Date : 1583317171 (2020/03/04)
+
+Ported Model Name : tgp_postlady_v2sc
+Ported Model Hash : b176ea54f5c782605f7058d271a8b1e9
+Ported Model Date : 1752492409 (2025/07/14)

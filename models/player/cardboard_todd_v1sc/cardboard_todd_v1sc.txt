@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cardboard_todd
+Source Model Hash : ab21b0d70fee18ae259186fb3d4db2c1
+Source Model Date : 1573840752 (2019/11/15)
+
+Ported Model Name : cardboard_todd_v1sc
+Ported Model Hash : f064981fb56c466f46d1e97ae6e61423
+Ported Model Date : 1752491462 (2025/07/14)

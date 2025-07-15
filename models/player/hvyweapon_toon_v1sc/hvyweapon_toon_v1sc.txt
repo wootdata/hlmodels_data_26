@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hvyweapon_toon
+Source Model Hash : b3b5fb11a2c7547e8a564a2707b113a1
+Source Model Date : 1269105948 (2010/03/20)
+
+Ported Model Name : hvyweapon_toon_v1sc
+Ported Model Hash : 609549dee3188da3364d02efa580222b
+Ported Model Date : 1752491838 (2025/07/14)

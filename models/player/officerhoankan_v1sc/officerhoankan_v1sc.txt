@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : officerhoankan
+Source Model Hash : adb80d325d4a17fa829e4a2e1de7d6da
+Source Model Date : 1264749081 (2010/01/28)
+
+Ported Model Name : officerhoankan_v1sc
+Ported Model Hash : cf78e79d066694aa7b4b4c7c598f424a
+Ported Model Date : 1752492113 (2025/07/14)

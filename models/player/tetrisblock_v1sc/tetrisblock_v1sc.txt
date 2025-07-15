@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tetrisblock
+Source Model Hash : 6d7291a4f96bf255d5e62cb7a4412a31
+Source Model Date : 1376327180 (2013/08/12)
+
+Ported Model Name : tetrisblock_v1sc
+Ported Model Hash : ce4869daee643b928e74580613b23342
+Ported Model Date : 1752492402 (2025/07/14)

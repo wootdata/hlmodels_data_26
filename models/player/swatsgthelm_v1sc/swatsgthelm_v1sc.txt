@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : swatsgthelm
+Source Model Hash : adf32281577872c330d36287fc6521b8
+Source Model Date : 1270020450 (2010/03/31)
+
+Ported Model Name : swatsgthelm_v1sc
+Ported Model Hash : b2d885299cd546afbf5a4b3bfc7e4a11
+Ported Model Date : 1752492354 (2025/07/14)

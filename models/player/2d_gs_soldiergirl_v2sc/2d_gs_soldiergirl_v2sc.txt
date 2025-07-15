@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_gs_soldiergirl_v2
+Source Model Hash : 482e9f1301a4a31303c5e65090ff23e8
+Source Model Date : 1553858058 (2019/03/29)
+
+Ported Model Name : 2d_gs_soldiergirl_v2sc
+Ported Model Hash : acfc9cc06f1ba4afa708c610ce540738
+Ported Model Date : 1752491308 (2025/07/14)

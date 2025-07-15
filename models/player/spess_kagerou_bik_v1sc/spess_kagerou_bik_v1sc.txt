@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spess_kagerou_bikini
+Source Model Hash : e06613842ffc476e26bb1d5203c696ee
+Source Model Date : 1591912832 (2020/06/11)
+
+Ported Model Name : spess_kagerou_bik_v1sc
+Ported Model Hash : 8ef54232ae2e931255d11cb105f03592
+Ported Model Date : 1752492307 (2025/07/14)

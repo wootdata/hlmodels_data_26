@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_nova_shotgun
+Source Model Hash : 0f4d7188508ffee2e151f69de00cc40c
+Source Model Date : 1458157645 (2016/03/16)
+
+Ported Model Name : combine_nova_sg_v1sc
+Ported Model Hash : 49b55727e239d86bc2992cefc8bd68fd
+Ported Model Date : 1752491512 (2025/07/14)

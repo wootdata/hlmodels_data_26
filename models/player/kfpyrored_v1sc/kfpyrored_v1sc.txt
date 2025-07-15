@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kfpyrored
+Source Model Hash : 9ba20e8ba3e65b87ca26de8d77e13e1a
+Source Model Date : 1314001691 (2011/08/22)
+
+Ported Model Name : kfpyrored_v1sc
+Ported Model Hash : e0f1a5ccb55cc89d9d853bb6451036b1
+Ported Model Date : 1752491881 (2025/07/14)

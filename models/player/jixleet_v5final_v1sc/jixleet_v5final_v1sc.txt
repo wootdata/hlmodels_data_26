@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jixleet_v5final
+Source Model Hash : 6f1c1f0b65df94f56e8161be5405c8a4
+Source Model Date : 1422909874 (2015/02/02)
+
+Ported Model Name : jixleet_v5final_v1sc
+Ported Model Hash : c92071c4ca12f858b4424abf0df8b427
+Ported Model Date : 1752491863 (2025/07/14)

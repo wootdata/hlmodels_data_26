@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_traitor4
+Source Model Hash : 8cd4e5b0536aba8561a5e5d98f10263c
+Source Model Date : 1477767186 (2016/10/29)
+
+Ported Model Name : cod_traitor4_v1sc
+Ported Model Hash : 388fc6a74a15a949038d335ff25cb16c
+Ported Model Date : 1752491502 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : barbarian
+Source Model Hash : 0332ecd3173bba2d973823ec22e89236
+Source Model Date : 1267791459 (2010/03/05)
+
+Ported Model Name : barbarian_v1sc
+Ported Model Hash : 49c66a59de9257f6f43a7149d6c83ff0
+Ported Model Date : 1752491401 (2025/07/14)

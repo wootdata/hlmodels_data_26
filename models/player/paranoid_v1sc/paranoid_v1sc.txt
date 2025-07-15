@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : paranoid
+Source Model Hash : 719c6935cb099fb5913be4a721e3f740
+Source Model Date : 1375440988 (2013/08/02)
+
+Ported Model Name : paranoid_v1sc
+Ported Model Hash : f262211fe1c53bf3b2cc8dd26659e8c6
+Ported Model Date : 1752492143 (2025/07/14)

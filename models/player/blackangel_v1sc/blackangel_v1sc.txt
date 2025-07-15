@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackangel
+Source Model Hash : dbb594232e7a50623e1b13e15bb83191
+Source Model Date : 1445577462 (2015/10/22)
+
+Ported Model Name : blackangel_v1sc
+Ported Model Hash : cf10b4292163f43d478f5167741fe8dd
+Ported Model Date : 1752491432 (2025/07/14)

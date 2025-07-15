@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_utsuho_v3
+Source Model Hash : f219dfda6ffc955a6388bf869ef90561
+Source Model Date : 1563797684 (2019/07/22)
+
+Ported Model Name : touhou_utsuho_v3sc
+Ported Model Hash : d04d60bb7852dd463363686a960eb88b
+Ported Model Date : 1752492451 (2025/07/14)

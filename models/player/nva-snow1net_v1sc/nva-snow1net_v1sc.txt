@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-schneestrich1net
+Source Model Hash : f4202211e25a91a9083829db08c39383
+Source Model Date : 1538077194 (2018/09/27)
+
+Ported Model Name : nva-snow1net_v1sc
+Ported Model Hash : 04367c1f8fe1b6b240906574a9df80fd
+Ported Model Date : 1752492108 (2025/07/14)

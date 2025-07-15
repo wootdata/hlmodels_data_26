@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_furina2
+Source Model Hash : e5bfd3bd28c0b9759d5c415fafce9c10
+Source Model Date : 1719155455 (2024/06/23)
+
+Ported Model Name : gi_furina2_v1sc
+Ported Model Hash : 8ff66c4eba9d4322b3273b9cf491e4ec
+Ported Model Date : 1752491709 (2025/07/14)

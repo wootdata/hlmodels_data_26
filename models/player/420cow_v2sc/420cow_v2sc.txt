@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 420cow_v2
+Source Model Hash : 21529db31f5af59a25417a853c078646
+Source Model Date : 1582865961 (2020/02/27)
+
+Ported Model Name : 420cow_v2sc
+Ported Model Hash : b203180b10ee43e04d5634bd03fcac01
+Ported Model Date : 1752491323 (2025/07/14)

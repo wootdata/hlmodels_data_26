@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : meatwad
+Source Model Hash : 6d462e017d8e08f409652aa65155cfb2
+Source Model Date : 1429568808 (2015/04/20)
+
+Ported Model Name : meatwad_v1sc
+Ported Model Hash : 33178f9b088e1e68186cfebc2f62a6f2
+Ported Model Date : 1752491998 (2025/07/14)

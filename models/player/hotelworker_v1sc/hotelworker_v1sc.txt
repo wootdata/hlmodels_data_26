@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hotelworker
+Source Model Hash : bdc97f1c9f205a7c95f7ae554084c3bd
+Source Model Date : 1375635626 (2013/08/04)
+
+Ported Model Name : hotelworker_v1sc
+Ported Model Hash : 078708b358fede861701cb1dd55f43ac
+Ported Model Date : 1752491830 (2025/07/14)

@@ -1,0 +1,22 @@
+Phillip Player Model
+======================
+Phillip of the Terrance & Phillip show from South Park
+
+Model created by TheCorp303
+
+www.the303.org
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sp_phillip
+Source Model Hash : d11fa3ed1c185da329ebefad9f6103a8
+Source Model Date : 1492180688 (2017/04/14)
+
+Ported Model Name : sp_phillip_v1sc
+Ported Model Hash : e2bca52c4a9b90cba2610f19cd43d5e3
+Ported Model Date : 1752492317 (2025/07/14)

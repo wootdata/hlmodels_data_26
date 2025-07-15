@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_stars_danielle
+Source Model Hash : 5e78da8ae39eec5021cff59ea73a8d85
+Source Model Date : 1236229596 (2009/03/04)
+
+Ported Model Name : re_stars_danielle_v1sc
+Ported Model Hash : 7eff96a93597c2288dd8910faa346487
+Ported Model Date : 1752492211 (2025/07/14)

@@ -1,0 +1,33 @@
+16/2 2000
+================================================================
+Model Name              : Kattmatsburk (Cat food tin)
+Installation directory  : **\models\player\kattmat\
+Author                  : Peter "Kattmat" Mullaart
+Email Address           : mr_kattmat@hotmail.com
+Web Address       	: none
+
+A scanned player model that looks like catfood tin.
+
+================================================================
+
+Poly Count              : about 404 polys = not much :)
+Vert Count              : about 234 Verts = not much :)
+Editors used            : Built in Milkshape, PSP 5 for skins
+
+Do whatever you want with this, but mail me if you submit it somewhere.
+ L:) elvis style
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kattmat_v2
+Source Model Hash : 5f5fcbd6cee3ed0e9a5defc10f8711dd
+Source Model Date : 1591120023 (2020/06/02)
+
+Ported Model Name : kattmat_v2sc
+Ported Model Hash : e4be2159887a60d203f0e1e2895f3216
+Ported Model Date : 1752491874 (2025/07/14)

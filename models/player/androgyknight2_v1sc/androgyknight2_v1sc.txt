@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : androgyknight2
+Source Model Hash : b330f230e5d6ca7a1bf9cfeb9f9f2917
+Source Model Date : 1619711361 (2021/04/29)
+
+Ported Model Name : androgyknight2_v1sc
+Ported Model Hash : a65ee9e54e2731bd688309e3a0d617cf
+Ported Model Date : 1752491360 (2025/07/14)

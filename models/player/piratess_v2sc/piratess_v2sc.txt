@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : piratess_v2
+Source Model Hash : 4c08fcaadd499ffc8335620981fcd699
+Source Model Date : 1583391917 (2020/03/04)
+
+Ported Model Name : piratess_v2sc
+Ported Model Hash : c18658556374a9318b461060b19acee3
+Ported Model Date : 1752492157 (2025/07/14)

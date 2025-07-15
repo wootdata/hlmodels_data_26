@@ -1,0 +1,38 @@
+Credit:
+ Modeling by Basilico
+
+ smd convert by takedeppo.50cal ....(^^;)b yay
+//////////////////////////////////////////////////
+GTASA用キャラMOD「橙」
+
+製作者：Basilico
+
+無改変での再配布はご遠慮下さい。
+その他の事は、下記ブログをご覧下さい。
+http://genovse.blog13.fc2.com/
+
+【解説】
+いぬまりささん（http://inumarisa.blog72.fc2.com/）が、
+ハイヌさんとみるちおさんのモデルをベースに作った
+シムピープル用橙MODを、更に私がGTA用に一部作り直したものです。
+
+テクスチャは、瞳の模様違いで二種類あり、
+普通の目のもの（chen.txd）と、猫目のもの（猫目.txd）があります。
+
+その他に、思いつきで作ったおまけが同梱してあります。
+詳細はおまけフォルダ内のJPEGをご覧下さい。
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_cheeeeeeeeeen
+Source Model Hash : e2cd6d9d1dc6acd81e7887f2aeff1933
+Source Model Date : 1469347035 (2016/07/24)
+
+Ported Model Name : touhou_cheeeeeeen_v1sc
+Ported Model Hash : 5a064d80952751becd52c527034b5260
+Ported Model Date : 1752492434 (2025/07/14)

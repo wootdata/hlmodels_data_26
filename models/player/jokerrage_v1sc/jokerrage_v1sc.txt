@@ -1,0 +1,36 @@
+        ---------- J O K E R  R A G E ----------
+released 4/20/99 
+
+Model name: JOKERrage
+
+Author: [R.A.G.E.]~AustiN
+
+Model homepage: http://www.geocities.com/timessquare/zone/6462
+
+Installation:Make a folder in Sierra\Half-life\valve\models\player\JOKERrage 
+Copy all files contained in this Zip into it (JOKERrage.mdl, JOKERrage.bmp, JOKERrage.txt)
+
+------------------------------------------------------------
+From the Author============================================
+Well I think this is one of the best skins I've made so far. I go the 
+colours on his shirt changable for team games, and I think it has good
+visibilty too. This skin looks damn evil, but what can u say... It's
+the Joker. He aint dead, and he's seeking revange, Batmman aint 
+around so Gordon better watch his back.
+Drop me a line anytime:   manny@cgocable.net
+-AUSTIN
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jokerrage
+Source Model Hash : 281b6f58a39c2d3a9a2b60fefee16636
+Source Model Date : 1590873209 (2020/05/30)
+
+Ported Model Name : jokerrage_v1sc
+Ported Model Hash : 9a727587067d3afe7cea3d6f29a52593
+Ported Model Date : 1752491865 (2025/07/14)

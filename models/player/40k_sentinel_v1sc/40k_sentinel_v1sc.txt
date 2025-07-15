@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_sentinel
+Source Model Hash : 53771b4aa2df90c85373cf68abeb978f
+Source Model Date : 1333580410 (2012/04/04)
+
+Ported Model Name : 40k_sentinel_v1sc
+Ported Model Hash : c96d3ef4d896632de3b02da3c401f15c
+Ported Model Date : 1752491323 (2025/07/14)

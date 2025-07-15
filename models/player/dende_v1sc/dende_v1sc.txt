@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dende
+Source Model Hash : 7ff58c66f6c298abac7eddbd79501ceb
+Source Model Date : 1266937088 (2010/02/23)
+
+Ported Model Name : dende_v1sc
+Ported Model Hash : 6a7524d8bfde0e55c10441953647cc08
+Ported Model Date : 1752491594 (2025/07/14)

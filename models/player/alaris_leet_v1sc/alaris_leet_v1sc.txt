@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alaris_leet
+Source Model Hash : 9d1e1a1e4293936c559e7d324091e418
+Source Model Date : 1433513207 (2015/06/05)
+
+Ported Model Name : alaris_leet_v1sc
+Ported Model Hash : daf01ce59f6d8b9843302a76d3c5ba59
+Ported Model Date : 1752491351 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ninja-girl
+Source Model Hash : 3af89a09dedab1ace223c61ca026f302
+Source Model Date : 1265637278 (2010/02/08)
+
+Ported Model Name : ninja-girl_v1sc
+Ported Model Hash : edf7c385959ec184ad9b29a8f8d8a2b7
+Ported Model Date : 1752492096 (2025/07/14)

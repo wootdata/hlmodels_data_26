@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hachikuji_v1
+Source Model Hash : 46ce4f8feccd75f557aae04f78414aea
+Source Model Date : 1602095985 (2020/10/07)
+
+Ported Model Name : hachikuji_v1sc
+Ported Model Hash : 01b3ed8a8627444c35eaa82ba0ddf082
+Ported Model Date : 1752491762 (2025/07/14)

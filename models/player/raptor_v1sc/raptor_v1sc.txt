@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raptor
+Source Model Hash : 2526371e71e2b9475226cb28c80d3b10
+Source Model Date : 1269244850 (2010/03/22)
+
+Ported Model Name : raptor_v1sc
+Ported Model Hash : f13c6df9e008face453e90d6c32aa8cd
+Ported Model Date : 1752492187 (2025/07/14)

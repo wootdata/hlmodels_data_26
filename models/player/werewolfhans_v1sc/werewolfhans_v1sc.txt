@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : werewolfhans
+Source Model Hash : 8368aa506c03816e7ac7ee4f513a7d0c
+Source Model Date : 1264528927 (2010/01/26)
+
+Ported Model Name : werewolfhans_v1sc
+Ported Model Hash : fc729c93dabd8ea6080f9e65beaa10fb
+Ported Model Date : 1752492505 (2025/07/14)

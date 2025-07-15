@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nyakotama_v2
+Source Model Hash : e4235b0187184ab313475d7636a45f9c
+Source Model Date : 1583661302 (2020/03/08)
+
+Ported Model Name : nyakotama_v2sc
+Ported Model Hash : b3dfb302ad6c93075331b6fa688fcdd6
+Ported Model Date : 1752492110 (2025/07/14)

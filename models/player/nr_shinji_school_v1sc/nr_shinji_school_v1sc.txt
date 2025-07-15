@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_shinji_school
+Source Model Hash : f3c499b4fdefd69b077c4a7563aeda3d
+Source Model Date : 1475458084 (2016/10/02)
+
+Ported Model Name : nr_shinji_school_v1sc
+Ported Model Hash : 771e4c52fda696ec4f9ddc74418b8c27
+Ported Model Date : 1752492103 (2025/07/14)

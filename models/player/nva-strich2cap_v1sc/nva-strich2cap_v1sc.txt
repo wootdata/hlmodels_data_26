@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-strich2cap
+Source Model Hash : f3eb3be18ba5275f9f3065cc23dc176e
+Source Model Date : 1538074468 (2018/09/27)
+
+Ported Model Name : nva-strich2cap_v1sc
+Ported Model Hash : 11139069d35e520d757a47a71eca4466
+Ported Model Date : 1752492108 (2025/07/14)

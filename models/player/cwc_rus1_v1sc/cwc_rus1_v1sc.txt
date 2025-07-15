@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cwc_rus1
+Source Model Hash : efc8a883c07ebfbee0b509a543db2209
+Source Model Date : 1245767400 (2009/06/23)
+
+Ported Model Name : cwc_rus1_v1sc
+Ported Model Hash : 052c3df4b3ee077ae86bfb16936da064
+Ported Model Date : 1752491570 (2025/07/14)

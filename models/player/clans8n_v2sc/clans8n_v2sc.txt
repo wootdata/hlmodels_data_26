@@ -1,0 +1,32 @@
+Skinner: SlimReapeR
+Skin Name: clans8n
+Model Used: s8n (Modified punisher model. modified by SlimReapeR)
+
+
+Installation of Plugin
+
+Create a folder called clans8n in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+This skin should only be used by members of the Clan [s8n]. Have this skin in your directory
+to see these guys reap!
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : clans8n_v2
+Source Model Hash : f39649f2bf51a88531094fcb2408251d
+Source Model Date : 1582977589 (2020/02/29)
+
+Ported Model Name : clans8n_v2sc
+Ported Model Hash : d45c4c7132669469e7767466ee21b673
+Ported Model Date : 1752491480 (2025/07/14)

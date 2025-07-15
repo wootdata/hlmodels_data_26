@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : strike-engy
+Source Model Hash : f3ae103467c019469564a7e10fc312d8
+Source Model Date : 1591328788 (2020/06/04)
+
+Ported Model Name : strike-engy_v1sc
+Ported Model Hash : 56fd6f59de5ec4ed9c5ed034fbc7bf52
+Ported Model Date : 1752492348 (2025/07/14)

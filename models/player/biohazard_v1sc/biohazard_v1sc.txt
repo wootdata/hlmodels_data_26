@@ -1,0 +1,23 @@
+The US marines brought in a special task force of higly trained soldiers named BioHazard Control Specailists. This is a model of one.
+
+Author: DanKind 
+E-Mail: DanKindSE@juno.com
+
+ALSO INCLUDED IS A SPRAY PAINT LOGO
+
+ENJOY! - DanKind
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : biohazard
+Source Model Hash : 3fd7f5450fdbefd54ff8fc41c065b80b
+Source Model Date : 1456437874 (2016/02/25)
+
+Ported Model Name : biohazard_v1sc
+Ported Model Hash : fcff42eb39a4420966304f0a186a93c9
+Ported Model Date : 1752491430 (2025/07/14)

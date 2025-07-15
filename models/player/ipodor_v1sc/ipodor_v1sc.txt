@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ipodor
+Source Model Hash : e85a42d6914c336e607c2ace8bf3c27c
+Source Model Date : 1567290538 (2019/08/31)
+
+Ported Model Name : ipodor_v1sc
+Ported Model Hash : bf5a0a77e9dd671b429cbaf2baff3b46
+Ported Model Date : 1752491851 (2025/07/14)

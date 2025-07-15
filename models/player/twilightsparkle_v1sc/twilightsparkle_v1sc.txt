@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : twilightsparkle
+Source Model Hash : 800dcb078f5dcd592ca55331eed26ce6
+Source Model Date : 1583125379 (2020/03/01)
+
+Ported Model Name : twilightsparkle_v1sc
+Ported Model Hash : a05d3bef316bcc0c58c5a059310eac4e
+Ported Model Date : 1752492465 (2025/07/14)

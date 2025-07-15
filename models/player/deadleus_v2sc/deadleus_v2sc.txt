@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : deadleus_v2
+Source Model Hash : 71081e5b74aa6f6fcdf76008debeac91
+Source Model Date : 1583006140 (2020/02/29)
+
+Ported Model Name : deadleus_v2sc
+Ported Model Hash : 7afec013a673f370b432800848212b62
+Ported Model Date : 1752491592 (2025/07/14)

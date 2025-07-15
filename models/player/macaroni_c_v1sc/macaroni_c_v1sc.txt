@@ -1,0 +1,29 @@
+------------------------------------------------------
+Macaroni Color (from Heybot!)
+for Sven Co-op 5.0 player model
+
+Monday.
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+28-02-2017 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : macaroni_c
+Source Model Hash : 20fa205bf151d111c441210ebaa2f3a5
+Source Model Date : 1519821024 (2018/02/28)
+
+Ported Model Name : macaroni_c_v1sc
+Ported Model Hash : 362ab5a5e8c3fbf1c9fc5b8fc658a51f
+Ported Model Date : 1752491977 (2025/07/14)

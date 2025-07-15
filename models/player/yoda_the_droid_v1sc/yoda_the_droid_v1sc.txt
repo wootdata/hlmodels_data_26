@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yoda_the_droid
+Source Model Hash : 53f4bc962c5ce56d47497cec8597b894
+Source Model Date : 1591341187 (2020/06/05)
+
+Ported Model Name : yoda_the_droid_v1sc
+Ported Model Hash : 17120b8785635774e6f1776381ce9b63
+Ported Model Date : 1752492520 (2025/07/14)

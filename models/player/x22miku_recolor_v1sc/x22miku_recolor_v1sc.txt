@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : x22miku_recolor
+Source Model Hash : 9b4077367e1bc9a50761369dc93e1396
+Source Model Date : 1742235902 (2025/03/17)
+
+Ported Model Name : x22miku_recolor_v1sc
+Ported Model Hash : ba657f0cd179fc7614b80957c996dfcc
+Ported Model Date : 1752492515 (2025/07/14)

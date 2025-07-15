@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : exoskeleton_dolg
+Source Model Hash : c980215aa96c36490e14d75b523019fe
+Source Model Date : 1239079922 (2009/04/06)
+
+Ported Model Name : exoskeleton_dolg_v1sc
+Ported Model Hash : fdf87bd6f568feef60d4777b044e622f
+Ported Model Date : 1752491641 (2025/07/14)

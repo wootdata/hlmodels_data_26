@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fassn5
+Source Model Hash : 20e8d5eaab6109e00805c17f184116c8
+Source Model Date : 1732463887 (2024/11/24)
+
+Ported Model Name : fassn5_v1sc
+Ported Model Hash : be8bcc071ee205724ed79a7da5ed7a3b
+Ported Model Date : 1752491645 (2025/07/14)

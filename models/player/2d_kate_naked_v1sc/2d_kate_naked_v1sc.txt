@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kate_naked
+Source Model Hash : 7b9e8d941867c33656507a59f15cde3f
+Source Model Date : 1553447560 (2019/03/24)
+
+Ported Model Name : 2d_kate_naked_v1sc
+Ported Model Hash : b5f1d75e8aefa76a6e2690dbf421bdc5
+Ported Model Date : 1752491312 (2025/07/14)

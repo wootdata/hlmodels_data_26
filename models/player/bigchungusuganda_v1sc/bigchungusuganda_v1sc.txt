@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bigchungusuganda
+Source Model Hash : 16130052e06715492abdedc2e027ba51
+Source Model Date : 1623577353 (2021/06/13)
+
+Ported Model Name : bigchungusuganda_v1sc
+Ported Model Hash : d22fda5aebbc57361109aab723eecc9b
+Ported Model Date : 1752491429 (2025/07/14)

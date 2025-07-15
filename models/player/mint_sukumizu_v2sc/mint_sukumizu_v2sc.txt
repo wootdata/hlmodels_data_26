@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mint_sukumizu_v2
+Source Model Hash : 70f33a2edfb7b1061bf695ef4b551f7e
+Source Model Date : 1642962489 (2022/01/23)
+
+Ported Model Name : mint_sukumizu_v2sc
+Ported Model Hash : c7a583c339431382fcd907ee96db87b1
+Ported Model Date : 1752492027 (2025/07/14)
