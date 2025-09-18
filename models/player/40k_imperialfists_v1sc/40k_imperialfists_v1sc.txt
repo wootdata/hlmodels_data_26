@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_imperialfists
+Source Model Hash : 937b014a5a2dd59edce08422c8a50270
+Source Model Date : 1740306360 (2025/02/23)
+
+Ported Model Name : 40k_imperialfists_v1sc
+Ported Model Hash : 9538ffdea53c117b5ed48a8c0ccbacb3
+Ported Model Date : 1758225720 (2025/09/18)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl1neru_v2
+Source Model Hash : 2b3784432ac7b5a2119ad1ecddcbe2bd
+Source Model Date : 1753472643 (2025/07/25)
+
+Ported Model Name : hl1neru_v2sc
+Ported Model Hash : ed593c33792b941774cd63d7ad6be2a8
+Ported Model Date : 1758225747 (2025/09/18)
