@@ -1,0 +1,14 @@
+Colonel Wolf 2
+
+Model: Recon
+Skin: Modified Recon skin
+utilities\apps: Mdlviewer 2.1, Paintshop pro 5.0
+by: Wolfmann
+
+Colonel wolf is my second try to make a skin. My first Colonel wolf was based on Gordon model,
+ and was basically a Hev suit in camo. 
+This model I changed colours to get a norwegian army camo look alike, and changed the beret 
+into the 6'st Division type, Best division in norwegian army. ( I served there.)
+
+Rolf-K Johansen Aka Wolfmann
+comments: Ralphern@hotmail.com

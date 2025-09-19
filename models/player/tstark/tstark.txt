@@ -1,0 +1,13 @@
+Tony Stark (Iron Man) skin created March 1, 1999 for Half-Life's Gordon model.
+
+
+For those of you that are fans of IRONMAN from MARVEL COMICS, here is a model
+of Tony Stark with most of his armor on.  Create a new TSTARK directory in your
+usual PLAYER directory for Half-Life and copy the BMP and MDL files for TSTARK
+into it.  Enjoy!
+
+
+Shawn Driscoll (SHONNER)
+shonner@hotmail.com
+http://www.shonner.com
+

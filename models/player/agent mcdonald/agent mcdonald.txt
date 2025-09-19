@@ -1,0 +1,16 @@
+				BEANOS SKINZ
+
+This skin is copyrighted to me... Beano!
+SO DON'T GIVE TO OTHER PEOPLE SAYING IT IS YOURS!
+You can give it to other people but with this Readme file!
+
+What it is: This skin is a muck around skin, you can't hide well with it, it is no good at snipering because everyone sees you before you can shoot them and you would be targeted because everyone wants to kill Ronald McDonald. I created it because I wanted a good laugh enjoy!
+
+INSTRUCTIONS:
+
+1. First make a sub directory in the Halflife\Valve\Models\Players called Agent McDonald
+2. Then extract the Agent McDonald.mdl and Agent McDonald.Bmp into it
+3. Run Half Life go to the configuration settings in multiplayer and scroll to Agent McDonald and enjoy!
+
+
+If any questions, suggestions or complaints;                           email me at: cpb9999@Hotmail.com!
