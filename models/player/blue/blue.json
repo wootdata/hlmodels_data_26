@@ -20,14 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "sarge",
-					"polys": 819,
-					"verts": 422
+					"name": "Punisher/Punisher",
+					"polys": 766,
+					"verts": 386
 				}, 
 				{
-					"name": "sarge",
-					"polys": 819,
-					"verts": 422
+					"name": "Punisher/Punisher",
+					"polys": 766,
+					"verts": 386
 				}
 			],
 			"name": "body"
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1373836210,
+	"date": 1381096000,
 	"events": [
 		{
 			"event": 2001,
@@ -177,11 +177,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "51ac29d47b9815bcdecd477937787b47",
+	"md5": "3ed3aaad5c577c47d57f9921eef06cf4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 2,
-	"name": "blue.mdl",
+	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -572,7 +572,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 259824,
+	"size": 320512,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -692,21 +692,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 8,
-			"name": "Base.bmp",
-			"width": 8
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "cigar.bmp",
-			"width": 16
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "head.bmp",
-			"width": 16
+			"height": 256,
+			"name": "punisher.BMP",
+			"width": 256
 		}
 	],
 	"version": 10
